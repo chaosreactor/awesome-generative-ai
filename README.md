@@ -52,6 +52,7 @@ An awesome list of low- and no-code generative AI resources.
 * [Magic Eraser](https://www.magiceraser.io) - Remove things from images
 * [Material Stable Diffusion](https://replicate.com/tommoore515/material_stable_diffusion) - generate seamless tiling images
 * [Runway](https://runwayml.com/) - AI-assisted video and content creation tool
+* [Stable Diffusion PaperCut Model] - a fine-uned stable diffusion model for generating images in the paper cut style
 * [Unscreen](https://www.unscreen.com/) - Remove video backgrounds, no green screen required
 
 ### ✍️ Writing
