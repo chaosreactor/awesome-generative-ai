@@ -43,6 +43,7 @@ An awesome list of low- and no-code generative AI resources.
 * [DreamStudio](https://beta.dreamstudio.ai/home) - Stability AI’s Stable Diffusion image generator
 * [Dream Textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built into Blender
 * [EbSynth](https://ebsynth.com/) - Animates between keyframes
+* [Facet](https://facet.ai/) - AI powered image editor
 * [G3DAI](https://g3d.ai/) - Generate 3D assets from a text prompt
 * [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai) - AI image upscaler
 * [Kaedim](https://www.kaedim3d.com) - 2D image to 3D model
