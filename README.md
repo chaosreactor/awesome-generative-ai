@@ -54,7 +54,7 @@ An awesome list of low- and no-code generative AI resources.
 
 * [Copy.ai](copy.ai)
 * [Lex](https://lex.page/)
-* [Jasper]()
+* [Jasper](https://www.jasper.ai/)
 * [Rytr](https://rytr.me)
 * [Sudowrite](https://www.sudowrite.com/)
 * [Tribescaler](https://tribescaler.com)
@@ -75,17 +75,17 @@ An awesome list of low- and no-code generative AI resources.
 
 ### 📰 Blogs & News
 
-* [Hungry Minded](https://medium.com/@HungryMinded)
+* [Hungry Minded](https://medium.com/@HungryMinded) - 
 
 ### 🗺 Ethics
 
-* [Human Touch](https://fiftytwo.in/story/human-touch/) - article on the human side of AI—data labeling.  22 jul 22 by Karishma Mehrotra
+* [Human Touch](https://fiftytwo.in/story/human-touch/) - article on the human side of AI—data labeling by Karishma Mehrotra
 * [How the AI industry profits from catastrophe](https://www.technologyreview.com/2022/04/20/1050392/ai-industry-appen-scale-data-labels/)
-* [Is Centralised AI Unethical?](https://analyticsindiamag.com/is-centralised-ai-unethical/) - Opinion piece about how AI should move to a decentralized operating model SEPTEMBER 14, 2022 by Pritam BordolloiLOI
+* [Is Centralised AI Unethical?](https://analyticsindiamag.com/is-centralised-ai-unethical/) - Opinion piece about how AI should move to a decentralized operating model by Pritam Bordolloi
 * [Is the AI spell-casting metaphor harmful or helpful?](https://simonwillison.net/2022/Oct/5/spell-casting/) by Simon Wilson
 * [Of God and Machines](https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/) - brief history and analysis of the effects AI might have on society by Stephen Marche
 * [On the dangers of stochastic parrots: Can language models be too big? 🦜](https://youtu.be/N5c2X8vhfBE)
-* [We warned Google that people might believe AI was sentient. Now it’s happening.](https://www.washingtonpost.com/opinions/2022/06/17/google-ai-ethics-sentient-lemoine-warning/) - Opinion piece about the ethical dillemma in buying to the ‘AI is magic’ thought.
+* [We warned Google that people might believe AI was sentient. Now it’s happening.](https://www.washingtonpost.com/opinions/2022/06/17/google-ai-ethics-sentient-lemoine-warning/) - Opinion piece about the ethical dillemma in buying to the ‘AI is magic’ thought
 
 ### ❓ Explainers
 
