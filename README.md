@@ -30,6 +30,10 @@ An awesome list of low- and no-code generative AI resources.
 * [Looka](https://looka.com) - AI generated branding
 * [Namelix](https://namelix.com) - Business name generator
 
+### 🖱 Low-code and no-code builders
+
+* [Chaos Reactor](https://www.chaosreactor.com/) - an open source, no-code platform for building generative AI workflows
+
 ### 💬 Prompt Design
 
 * [CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator) - Upload an image and see what prompt might have created it
@@ -52,6 +56,7 @@ An awesome list of low- and no-code generative AI resources.
 * [Magic Eraser](https://www.magiceraser.io) - Remove things from images
 * [Material Stable Diffusion](https://replicate.com/tommoore515/material_stable_diffusion) - generate seamless tiling images
 * [Move](https://www.move.ai/) - Capture high quality motion data from video
+* [Night Cafe](https://nightcafe.studio/) - Access several image models to create AI-generated images in and easy-to-use website
 * [Runway](https://runwayml.com/) - AI-assisted video and content creation tool
 * [Stable Diffusion PaperCut Model] - a fine-uned stable diffusion model for generating images in the paper cut style
 * [Unscreen](https://www.unscreen.com/) - Remove video backgrounds, no green screen required
