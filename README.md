@@ -8,7 +8,7 @@ An awesome list of low- and no-code generative AI resources.
   * [📊 Business & Marketing](#-business--marketing)
   * [💬 Prompt Design](#-prompt-design)
   * [🖼 Visual](#-visual)
-  * [✍️ Writing](#-writing)
+  * [✍️ Writing](#%EF%B8%8F-writing)
   * [Other](#other)
 * [🗃 Content](#-content)
   * [🏛 AI Art Galleries](#-ai-art-galleries)
