@@ -51,6 +51,7 @@ An awesome list of low- and no-code generative AI resources.
 * [Luma AI](https://lumalabs.ai/) - Create 3D models by scanning objects with a smartphone
 * [Magic Eraser](https://www.magiceraser.io) - Remove things from images
 * [Material Stable Diffusion](https://replicate.com/tommoore515/material_stable_diffusion) - generate seamless tiling images
+* [Move](https://www.move.ai/) - Capture high quality motion data from video
 * [Runway](https://runwayml.com/) - AI-assisted video and content creation tool
 * [Stable Diffusion PaperCut Model] - a fine-uned stable diffusion model for generating images in the paper cut style
 * [Unscreen](https://www.unscreen.com/) - Remove video backgrounds, no green screen required
