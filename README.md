@@ -60,6 +60,7 @@ An awesome list of low- and no-code generative AI resources.
 * [Copy.ai](copy.ai)
 * [Lex](https://lex.page/)
 * [Jasper](https://www.jasper.ai/)
+* [Notion AI](https://www.notion.so/product/ai)
 * [Rytr](https://rytr.me)
 * [Sudowrite](https://www.sudowrite.com/)
 * [Tribescaler](https://tribescaler.com)
