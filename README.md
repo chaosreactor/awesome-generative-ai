@@ -4,24 +4,24 @@ An awesome list of low- and no-code generative AI resources.
 
 ## Contents
 
-* [🛠 Products & Tools](#🛠-products--tools)
-  * [📊 Business & Marketing](#📊-business--marketing)
-  * [💬 Prompt Design](#💬-prompt-design)
-  * [🖼 Visual](#🖼-visual)
-  * [✍️ Writing](#✍️-writing)
+* [🛠 Products & Tools](#-products--tools)
+  * [📊 Business & Marketing](#-business--marketing)
+  * [💬 Prompt Design](#-prompt-design)
+  * [🖼 Visual](#-visual)
+  * [✍️ Writing](#-writing)
   * [Other](#other)
-* [🗃 Content](#🗃-content)
-  * [🏛 AI Art Galleries](#🏛-ai-art-galleries)
-  * [📰 Blogs & News](#📰-blogs--news)
-  * [🗺 Ethics](#🗺-ethics)
-  * [❓ Explainers](#❓-explainers)
-  * [🗒 Forums & List](#🗒-forums--lists)
-  * [🧭 How-to](#🧭-how-to)
+* [🗃 Content](#-content)
+  * [🏛 AI Art Galleries](#-ai-art-galleries)
+  * [📰 Blogs & News](#-blogs--news)
+  * [🗺 Ethics](#-ethics)
+  * [❓ Explainers](#-explainers)
+  * [🗒 Forums & List](#-forums--lists)
+  * [🧭 How-to](#-how-to)
     * [Dreambooth](#dreambooth)
     * [Midjourney](#midjourney)
     * [Stable Diffusion](#stable-diffusion)
-  * [📃 Papers](#📃-papers)
-  * [📺 Video Channels](#📺-video-channels)
+  * [📃 Papers](#-papers)
+  * [📺 Video Channels](#-video-channels)
 
 ## 🛠 Products & Tools
 
