@@ -40,6 +40,7 @@ An awesome list of low- and no-code generative AI resources.
 * [Autoenhance](https://www.autoenhance.ai) - AI photo editing
 * [Avatar AI](http://avatarai.me/) - Create your own AI-generated avatars
 * [Deforum](https://deforum.github.io/) - A Stable Diffusion notebook that can be used to create animations
+* [Dreamlofi](https://www.dreamlofi.com/) - Generate lofi artwork
 * [DreamStudio](https://beta.dreamstudio.ai/home) - Stability AI’s Stable Diffusion image generator
 * [Dream Textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built into Blender
 * [EbSynth](https://ebsynth.com/) - Animates between keyframes
@@ -47,6 +48,7 @@ An awesome list of low- and no-code generative AI resources.
 * [G3DAI](https://g3d.ai/) - Generate 3D assets from a text prompt
 * [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai) - AI image upscaler
 * [Kaedim](https://www.kaedim3d.com) - 2D image to 3D model
+* [Luma AI](https://lumalabs.ai/) - Create 3D models by scanning objects with a smartphone
 * [Magic Eraser](https://www.magiceraser.io) - Remove things from images
 * [Material Stable Diffusion](https://replicate.com/tommoore515/material_stable_diffusion) - generate seamless tiling images
 * [Runway](https://runwayml.com/) - AI-assisted video and content creation tool
