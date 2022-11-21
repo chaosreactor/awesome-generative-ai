@@ -52,6 +52,7 @@ An awesome list of low- and no-code generative AI resources.
 * [DreamStudio](https://beta.dreamstudio.ai/home) - Stability AI’s Stable Diffusion image generator
 * [Dream Textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built into Blender
 * [EbSynth](https://ebsynth.com/) - Animates between keyframes
+* [Eye for AI](https://eyeforai.xyz/) - Text-to-image tools and templates
 * [Facet](https://facet.ai/) - AI powered image editor
 * [G3DAI](https://g3d.ai/) - Generate 3D assets from a text prompt
 * [Getimg.ai](https://getimg.ai/) - Generative AI image creation and editing tools
