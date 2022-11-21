@@ -54,6 +54,7 @@ An awesome list of low- and no-code generative AI resources.
 * [EbSynth](https://ebsynth.com/) - Animates between keyframes
 * [Facet](https://facet.ai/) - AI powered image editor
 * [G3DAI](https://g3d.ai/) - Generate 3D assets from a text prompt
+* [Getimg.ai](https://getimg.ai/) - Generative AI image creation and editing tools
 * [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai) - AI image upscaler
 * [Kaedim](https://www.kaedim3d.com) - 2D image to 3D model
 * [Luma AI](https://lumalabs.ai/) - Create 3D models by scanning objects with a smartphone
