@@ -137,6 +137,7 @@ An awesome list of low- and no-code generative AI resources.
 * ▶️ [Designing a Metroidvania Game With AI! (For FREE) | Stable Diffusion Walkthrough](https://youtu.be/Me8-dKhQ0UU)
 * ▶️ [How to make: AI Animations](https://youtu.be/w_sxuDMt_V0)
 * ▶️ [How To Make Animations Using Stable Diffusion and After Effects | AI Art To Animation](https://youtu.be/KFdtf1JKXmQ)
+* 🗒 [Prompt Engineering 101: Generate Sick Stable Diffusion Images](https://lol.framer.website/notes/prompt-engineering-101-sd)
 * ▶️ [Re-texturing with Stable Diffusion](https://youtu.be/rdYpbvLQPJ4)
 * ▶️ [Stable diffusion animation tutorial. Deforum ALL settings explained. Make your own AI video!](https://youtu.be/lztn6qLc9UE)
 * ▶️ [Stable diffusion Animation tutorial with AUTOMATIC AUDIO SYNC. Make your own AI music video!](https://youtu.be/FehfaLbTUjk)
