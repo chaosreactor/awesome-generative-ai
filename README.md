@@ -21,6 +21,7 @@ An awesome list of low- and no-code generative AI resources.
     * [Dreambooth](#dreambooth)
     * [Midjourney](#midjourney)
     * [Stable Diffusion](#stable-diffusion)
+  * [📧 Newsletters](#-newsletters)
   * [📃 Papers](#-papers)
   * [📺 Video Channels](#-video-channels)
 
@@ -143,6 +144,12 @@ An awesome list of low- and no-code generative AI resources.
 * ▶️ [Stable diffusion img2img tutorial](https://youtu.be/FHqsgSvBiBU)
 * ▶️ [Stable Diffusion Prompt Guide](https://youtu.be/c5dHIz0RyMU)
 * ▶️ [Stable Diffusion - VIDEO Render Guide - Easy to follow and FREE](https://youtu.be/rvHgcOa9gDk)
+
+### 📧 Newsletters
+
+* [The Algorithmic Bridge](https://thealgorithmicbridge.substack.com/)
+* [Ben’s Bites](https://bensbites.beehiiv.com/subscribe?ref=xCCZwxgFag)
+* [Import AI](https://jack-clark.net/)
 
 ### 📃 Papers
 
