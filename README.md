@@ -46,6 +46,7 @@ An awesome list of low- and no-code generative AI resources.
 * [Alpaca](https://www.getalpaca.io/) - AI powered photoshop plugin
 * [Autoenhance](https://www.autoenhance.ai) - AI photo editing
 * [Avatar AI](http://avatarai.me/) - Create your own AI-generated avatars
+* [Canva Text-to-image](https://www.canva.com/apps/text-to-image) - Image generation in Canva
 * [Deforum](https://deforum.github.io/) - A Stable Diffusion notebook that can be used to create animations
 * [Dreamlofi](https://www.dreamlofi.com/) - Generate lofi artwork
 * [DreamStudio](https://beta.dreamstudio.ai/home) - Stability AI’s Stable Diffusion image generator
