@@ -6,6 +6,7 @@ An awesome list of low- and no-code generative AI resources.
 
 * [🛠 Products & Tools](#-products--tools)
   * [📊 Business & Marketing](#-business--marketing)
+  * [🖱 Low-code and no-code builders](#-low-code-and-no-code-builders)
   * [💬 Prompt Design](#-prompt-design)
   * [🖼 Visual](#-visual)
   * [✍️ Writing](#%EF%B8%8F-writing)
