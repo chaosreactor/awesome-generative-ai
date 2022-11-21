@@ -55,6 +55,7 @@ An awesome list of low- and no-code generative AI resources.
 * [Kaedim](https://www.kaedim3d.com) - 2D image to 3D model
 * [Luma AI](https://lumalabs.ai/) - Create 3D models by scanning objects with a smartphone
 * [Magic Eraser](https://www.magiceraser.io) - Remove things from images
+* [Magician](https://magician.design/) - AI-powered Figma plugin
 * [Material Stable Diffusion](https://replicate.com/tommoore515/material_stable_diffusion) - generate seamless tiling images
 * [Move](https://www.move.ai/) - Capture high quality motion data from video
 * [Night Cafe](https://nightcafe.studio/) - Access several image models to create AI-generated images in and easy-to-use website
