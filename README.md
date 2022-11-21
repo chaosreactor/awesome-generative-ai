@@ -41,6 +41,7 @@ An awesome list of low- and no-code generative AI resources.
 
 ### 🖼 Visual
 
+* [Alpaca](https://www.getalpaca.io/) - AI powered photoshop plugin
 * [Autoenhance](https://www.autoenhance.ai) - AI photo editing
 * [Avatar AI](http://avatarai.me/) - Create your own AI-generated avatars
 * [Deforum](https://deforum.github.io/) - A Stable Diffusion notebook that can be used to create animations
