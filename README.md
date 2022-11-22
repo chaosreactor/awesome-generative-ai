@@ -65,7 +65,7 @@ An awesome list of low- and no-code generative AI resources.
 * [Move](https://www.move.ai/) - Capture high quality motion data from video
 * [Night Cafe](https://nightcafe.studio/) - Access several image models to create AI-generated images in and easy-to-use website
 * [Runway](https://runwayml.com/) - AI-assisted video and content creation tool
-* [Stable Diffusion PaperCut Model] - a fine-uned stable diffusion model for generating images in the paper cut style
+* [Stable Diffusion PaperCut Model](https://huggingface.co/Fictiverse/Stable_Diffusion_PaperCut_Model) - a fine-uned stable diffusion model for generating images in the paper cut style
 * [Unscreen](https://www.unscreen.com/) - Remove video backgrounds, no green screen required
 
 ### ✍️ Writing
