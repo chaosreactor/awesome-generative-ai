@@ -49,6 +49,7 @@ An awesome list of low- and no-code generative AI resources.
 * [Canva Text-to-image](https://www.canva.com/apps/text-to-image) - Image generation in Canva
 * [Deforum](https://deforum.github.io/) - A Stable Diffusion notebook that can be used to create animations
 * [Dreamlofi](https://www.dreamlofi.com/) - Generate lofi artwork
+* [Designify](https://www.designify.com/) - Generate designs from a photo
 * [DreamStudio](https://beta.dreamstudio.ai/home) - Stability AI’s Stable Diffusion image generator
 * [Dream Textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built into Blender
 * [EbSynth](https://ebsynth.com/) - Animates between keyframes
