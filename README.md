@@ -100,6 +100,7 @@ An awesome list of low- and no-code generative AI resources.
 
 ### 🏛 AI Art Galleries
 
+* [DiffusionDB](https://poloclub.github.io/diffusiondb/) - 14 million image-prompt pairs
 * [Generrated](https://generrated.com) - A gallery of DALL-E 2 generated images and their prompts
 * [KREA Stable Diffusion](https://atlas.nomic.ai/map/809ef16a-5b2d-4291-b772-a913f4c8ee61/9ed7d171-650b-4526-85bf-3592ee51ea31/-152.45256860767321/150.0434393658158/-92.04988008719796/78.28418154549284/25f224ce-0564-4979-9558-6b18fbdb8820) - An explorable map of KREA AI's Stable Diffusion Search Engine
 * [Lexica](https://lexica.art)- The Stable Diffusion search engine
