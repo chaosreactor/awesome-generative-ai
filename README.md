@@ -44,6 +44,7 @@ An awesome list of low- and no-code generative AI resources.
 ### 🖼 Visual
 
 * [Alpaca](https://www.getalpaca.io/) - AI powered photoshop plugin
+* [Astria](https://www.strmr.com/) - Create fine-tuned DreamBooth models
 * [Autoenhance](https://www.autoenhance.ai) - AI photo editing
 * [Avatar AI](http://avatarai.me/) - Create your own AI-generated avatars
 * [Canva Text-to-image](https://www.canva.com/apps/text-to-image) - Image generation in Canva
