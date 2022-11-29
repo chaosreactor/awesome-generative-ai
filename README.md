@@ -66,12 +66,13 @@ An awesome list of low- and no-code generative AI resources.
 * [Material Stable Diffusion](https://replicate.com/tommoore515/material_stable_diffusion) - generate seamless tiling images
 * [Move](https://www.move.ai/) - Capture high quality motion data from video
 * [Night Cafe](https://nightcafe.studio/) - Access several image models to create AI-generated images in and easy-to-use website
+* [Portrait by Vana](https://portrait.vana.com/) - AI-generated portraits
 * [ProfilePicture.AI](https://www.profilepicture.ai/) - AI generated profile images
 * [Remove BG](https://www.remove.bg/) - Automatically remove the background from an image
 * [Runway](https://runwayml.com/) - AI-assisted video and content creation tool
 * [Stable Diffusion PaperCut Model](https://huggingface.co/Fictiverse/Stable_Diffusion_PaperCut_Model) - a fine-uned stable diffusion model for generating images in the paper cut style
 * [Unscreen](https://www.unscreen.com/) - Remove video backgrounds, no green screen required
-* [Portrait by Vana](https://portrait.vana.com/) - AI-generated portraits
+
 
 ### ✍️ Writing
 
