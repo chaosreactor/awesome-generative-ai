@@ -90,6 +90,7 @@ An awesome list of low- and no-code generative AI resources.
 
 ### Other
 
+* [Bearly AI](https://bearly.ai/) - Summarize and query articles and text
 * [My Mind](https://mymind.com/) - AI-powered bookmark manager
 * [Replika](https://replika.com) - AI companion
 * [Rewind](https://www.rewind.ai/) - The search engine for your life
