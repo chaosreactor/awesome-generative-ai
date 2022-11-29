@@ -31,6 +31,7 @@ An awesome list of low- and no-code generative AI resources.
 
 * [Looka](https://looka.com) - AI generated branding
 * [Namelix](https://namelix.com) - Business name generator
+* [Pencil](https://www.trypencil.com/) - Generate optimized ad creative
 
 ### 🖱 Low-code and no-code builders
 
