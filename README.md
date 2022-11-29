@@ -63,6 +63,7 @@ An awesome list of low- and no-code generative AI resources.
 * [Interior AI](https://interiorai.com/) - AI generated virtual room staging
 * [Kaedim](https://www.kaedim3d.com) - 2D image to 3D model
 * [Luma AI](https://lumalabs.ai/) - Create 3D models by scanning objects with a smartphone
+* [Lumen5](https://lumen5.com/) - Create videos from blog posts with the help of AI
 * [Magic Eraser](https://www.magiceraser.io) - Remove things from images
 * [Magician](https://magician.design/) - AI-powered Figma plugin
 * [Material Stable Diffusion](https://replicate.com/tommoore515/material_stable_diffusion) - generate seamless tiling images
