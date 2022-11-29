@@ -170,6 +170,7 @@ An awesome list of low- and no-code generative AI resources.
 * [Animating Pictures with Eulerian Motion Fields](https://eulerian.cs.washington.edu/)
 * [**DreamFusion**: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/)
 * [EDGE: Editable Dance Generation from Music](https://edge-dance.github.io/)
+* [MAGIC VIDEO: Efficient Video Generation With Latent Diffusion Models](https://magicvideo.github.io/)
 
 ### 📺 Video Channels
 
