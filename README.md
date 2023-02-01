@@ -42,6 +42,7 @@ An awesome list of low- and no-code generative AI resources.
 * [CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator) - Upload an image and see what prompt might have created it
 * [Humanloop](https://humanloop.com/) - prompt creation and custom fine-tuned models
 * [Prompt Extend](https://huggingface.co/spaces/daspartho/prompt-extend) - Enter an idea for a prompt and get a revised prompt with style cues back
+* [Public Prompts](https://publicprompts.art/) - a collection of free, public prompts
 
 ### 🖼 Visual
 
