@@ -21,6 +21,7 @@ An awesome list of low- and no-code generative AI resources.
     * [Dreambooth](#dreambooth)
     * [Midjourney](#midjourney)
     * [Stable Diffusion](#stable-diffusion)
+    * [Application Development](#application-development)
   * [📧 Newsletters](#-newsletters)
   * [📃 Papers](#-papers)
   * [📺 Video Channels](#-video-channels)
@@ -162,6 +163,10 @@ An awesome list of low- and no-code generative AI resources.
 * ▶️ [Stable diffusion img2img tutorial](https://youtu.be/FHqsgSvBiBU)
 * ▶️ [Stable Diffusion Prompt Guide](https://youtu.be/c5dHIz0RyMU)
 * ▶️ [Stable Diffusion - VIDEO Render Guide - Easy to follow and FREE](https://youtu.be/rvHgcOa9gDk)
+
+#### Application Development
+
+* [DataCamp's Become a Generative AI Developer series](https://www.datacamp.com/ai-code-alongs): 9 code-alongs on building chatbots using LangChain and the OpenAI and Pinecone APIs, and working with the Hugging Face ecosystem. Free, for a limited time only.
 
 ### 📧 Newsletters
 
