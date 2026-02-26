@@ -52,6 +52,7 @@ An awesome list of low- and no-code generative AI resources.
 * [Autoenhance](https://www.autoenhance.ai) - AI photo editing
 * [Avatar AI](http://avatarai.me/) - Create your own AI-generated avatars
 * [Canva Text-to-image](https://www.canva.com/apps/text-to-image) - Image generation in Canva
+* [AI Image Lab](https://aiimagelab.art/) - Free AI image generator with curated prompt library across 8 categories. 4K output
 * [Deforum](https://deforum.github.io/) - A Stable Diffusion notebook that can be used to create animations
 * [Dreamlofi](https://www.dreamlofi.com/) - Generate lofi artwork
 * [Designify](https://www.designify.com/) - Generate designs from a photo
