@@ -173,6 +173,7 @@ An awesome list of low- and no-code generative AI resources.
 * [The Algorithmic Bridge](https://thealgorithmicbridge.substack.com/)
 * [Ben’s Bites](https://bensbites.beehiiv.com/subscribe?ref=xCCZwxgFag)
 * [Import AI](https://jack-clark.net/)
+* [Creative AI News](https://www.creativeainews.com) - Weekly AI tools and workflows for every working creator: image, video, audio, 3D, and code.
 
 ### 📃 Papers
 
