@@ -90,6 +90,7 @@ An awesome list of low- and no-code generative AI resources.
 * [Sudowrite](https://www.sudowrite.com/)
 * [Tribescaler](https://tribescaler.com)
 * [Writesonic](https://writesonic.com)
+* [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ### Other
 
