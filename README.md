@@ -455,6 +455,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Code to Flow](https://codetoflow.com): Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
 * [Recast Studio](https://recast.studio): AI-powered podcast marketing assistant.
 * [Clipwing](https://clipwing.pro/): A tool for cutting long videos into dozens of short clips.
+* [CreatorSkills](https://creatorskills.co): Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 * [Tailor](https://www.usetailor.com): Get a daily podcast and newsletter, created for you by an AI
 * [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
 * [Scribble Diffusion](https://scribblediffusion.com/): turn your sketch into a refined image using AI
