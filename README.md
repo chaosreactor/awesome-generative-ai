@@ -78,6 +78,7 @@ An awesome list of low- and no-code generative AI resources.
 * [Runway](https://runwayml.com/) - AI-assisted video and content creation tool
 * [Stable Diffusion PaperCut Model](https://huggingface.co/Fictiverse/Stable_Diffusion_PaperCut_Model) - a fine-uned stable diffusion model for generating images in the paper cut style
 * [Unscreen](https://www.unscreen.com/) - Remove video backgrounds, no green screen required
+* [Seedream AI Studio](https://seedream4.video/) - ByteDance's multi-model AI image platform (Seedream 5.0/4.5/4.0), ranked #1 in AI Image Arena; supports up to 10 reference images and one-click video generation via Kling 2.1
 
 
 ### ✍️ Writing
