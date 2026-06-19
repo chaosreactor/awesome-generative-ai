@@ -32,6 +32,7 @@ An awesome list of low- and no-code generative AI resources.
 
 * [Looka](https://looka.com) - AI generated branding
 * [Namelix](https://namelix.com) - Business name generator
+* [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads, connecting to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
 * [Pencil](https://www.trypencil.com/) - Generate optimized ad creative
 
 ### 🖱 Low-code and no-code builders
