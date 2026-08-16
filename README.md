@@ -78,6 +78,7 @@ An awesome list of low- and no-code generative AI resources.
 * [Runway](https://runwayml.com/) - AI-assisted video and content creation tool
 * [Stable Diffusion PaperCut Model](https://huggingface.co/Fictiverse/Stable_Diffusion_PaperCut_Model) - a fine-uned stable diffusion model for generating images in the paper cut style
 * [Unscreen](https://www.unscreen.com/) - Remove video backgrounds, no green screen required
+* [videos.social](https://videos.social/) - Turn blog posts, PDFs, and prompts into editable faceless videos
 
 
 ### ✍️ Writing
