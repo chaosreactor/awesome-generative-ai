@@ -65,6 +65,7 @@ An awesome list of low- and no-code generative AI resources.
 * [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai) - AI image upscaler
 * [Interior AI](https://interiorai.com/) - AI generated virtual room staging
 * [Kaedim](https://www.kaedim3d.com) - 2D image to 3D model
+* [Luphra](https://www.luphra.com/) - Prompt-to-matter AI that turns prompts and sketches into editable 3D and manufactured physical products.
 * [Luma AI](https://lumalabs.ai/) - Create 3D models by scanning objects with a smartphone
 * [Lumen5](https://lumen5.com/) - Create videos from blog posts with the help of AI
 * [Magic Eraser](https://www.magiceraser.io) - Remove things from images
