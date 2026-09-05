@@ -96,6 +96,7 @@ An awesome list of low- and no-code generative AI resources.
 * [Bearly AI](https://bearly.ai/) - Summarize and query articles and text
 * [My Mind](https://mymind.com/) - AI-powered bookmark manager
 * [Replika](https://replika.com) - AI companion
+* [WSUP AI](https://wsupai.app/) - Free AI character chat in the browser — talk to AI characters with no sign up. SFW only
 * [Rewind](https://www.rewind.ai/) - The search engine for your life
 
 ## 🗃 Content
