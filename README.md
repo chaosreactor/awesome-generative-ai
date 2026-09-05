@@ -170,6 +170,7 @@ An awesome list of low- and no-code generative AI resources.
 
 ### 📧 Newsletters
 
+* [AI Weekly](https://aiweekly.co/): Ranks and explains what influential AI experts and organizations are reading and sharing.
 * [The Algorithmic Bridge](https://thealgorithmicbridge.substack.com/)
 * [Ben’s Bites](https://bensbites.beehiiv.com/subscribe?ref=xCCZwxgFag)
 * [Import AI](https://jack-clark.net/)
