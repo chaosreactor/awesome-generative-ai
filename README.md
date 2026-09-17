@@ -95,6 +95,7 @@ An awesome list of low- and no-code generative AI resources.
 
 * [Bearly AI](https://bearly.ai/) - Summarize and query articles and text
 * [My Mind](https://mymind.com/) - AI-powered bookmark manager
+* [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 * [Replika](https://replika.com) - AI companion
 * [Rewind](https://www.rewind.ai/) - The search engine for your life
 
