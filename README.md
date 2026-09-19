@@ -72,6 +72,7 @@ An awesome list of low- and no-code generative AI resources.
 * [Material Stable Diffusion](https://replicate.com/tommoore515/material_stable_diffusion) - generate seamless tiling images
 * [Move](https://www.move.ai/) - Capture high quality motion data from video
 * [Night Cafe](https://nightcafe.studio/) - Access several image models to create AI-generated images in and easy-to-use website
+* [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT-licensed, local-first CLI and MCP toolkit for agent-driven video composition, editing and generation from editable plan.json timelines.
 * [Portrait by Vana](https://portrait.vana.com/) - AI-generated portraits
 * [ProfilePicture.AI](https://www.profilepicture.ai/) - AI generated profile images
 * [Remove BG](https://www.remove.bg/) - Automatically remove the background from an image
