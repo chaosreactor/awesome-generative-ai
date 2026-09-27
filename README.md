@@ -46,6 +46,7 @@ An awesome list of low- and no-code generative AI resources.
 * [Public Prompts](https://publicprompts.art/) - a collection of free, public prompts
 
 ### 🖼 Visual
+* [Raphael AI](https://raphael.app) - Free unlimited AI image generator (text-to-image, no signup)
 
 * [Alpaca](https://www.getalpaca.io/) - AI powered photoshop plugin
 * [Astria](https://www.strmr.com/) - Create fine-tuned DreamBooth models
