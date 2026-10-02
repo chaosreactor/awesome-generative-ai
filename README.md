@@ -93,6 +93,7 @@ An awesome list of low- and no-code generative AI resources.
 
 ### Other
 
+* [Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) - Base mainnet research API. Free x402 discovery; external USDC payers can buy a short research report ($2) or OpenAI-compatible chat ($0.001).
 * [Bearly AI](https://bearly.ai/) - Summarize and query articles and text
 * [My Mind](https://mymind.com/) - AI-powered bookmark manager
 * [Replika](https://replika.com) - AI companion
