@@ -93,6 +93,7 @@ An awesome list of low- and no-code generative AI resources.
 
 ### Other
 
+* [Auferet](https://auferet.com) - AI game master for solo text adventures and tabletop RPGs
 * [Bearly AI](https://bearly.ai/) - Summarize and query articles and text
 * [My Mind](https://mymind.com/) - AI-powered bookmark manager
 * [Replika](https://replika.com) - AI companion
