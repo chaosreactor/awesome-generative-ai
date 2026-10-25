@@ -97,6 +97,7 @@ An awesome list of low- and no-code generative AI resources.
 * [My Mind](https://mymind.com/) - AI-powered bookmark manager
 * [Replika](https://replika.com) - AI companion
 * [Rewind](https://www.rewind.ai/) - The search engine for your life
+* [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
 
 ## 🗃 Content
 
