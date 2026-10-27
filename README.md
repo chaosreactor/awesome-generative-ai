@@ -129,6 +129,7 @@ An awesome list of low- and no-code generative AI resources.
 
 * [Bleeding Edge AI](https://bleedingedge.ai)
 * [Futurepedia](https://www.futurepedia.io) - The largest directory of ai tools updated daily
+* [RespawnStack](https://respawnstack.com) - Directory of AI tools for game development with sourced pricing, commercial-use notes, and license caveats
 * [Pharmapsychotic Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html)
 
 ### 🧭 How-to
