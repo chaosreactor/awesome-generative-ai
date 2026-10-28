@@ -47,6 +47,7 @@ An awesome list of low- and no-code generative AI resources.
 
 ### 🖼 Visual
 
+- [Ideoy](https://ideoy.ai) - AI photo-to-video meme templates — turn a selfie into short vertical remakes of trending memes.
 * [Alpaca](https://www.getalpaca.io/) - AI powered photoshop plugin
 * [Astria](https://www.strmr.com/) - Create fine-tuned DreamBooth models
 * [Autoenhance](https://www.autoenhance.ai) - AI photo editing
