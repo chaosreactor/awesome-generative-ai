@@ -51,6 +51,7 @@ An awesome list of low- and no-code generative AI resources.
 * [Astria](https://www.strmr.com/) - Create fine-tuned DreamBooth models
 * [Autoenhance](https://www.autoenhance.ai) - AI photo editing
 * [Avatar AI](http://avatarai.me/) - Create your own AI-generated avatars
+* [Breatic](https://github.com/orime-org/breatic) - Collaborative AI media canvas with shared documents and human-reviewed agent edits; source-available under Elastic-2.0.
 * [Canva Text-to-image](https://www.canva.com/apps/text-to-image) - Image generation in Canva
 * [Deforum](https://deforum.github.io/) - A Stable Diffusion notebook that can be used to create animations
 * [Dreamlofi](https://www.dreamlofi.com/) - Generate lofi artwork
