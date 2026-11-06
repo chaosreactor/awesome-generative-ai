@@ -20,6 +20,9 @@ An awesome list of low- and no-code generative AI resources.
   * [🧭 How-to](#-how-to)
     * [Dreambooth](#dreambooth)
     * [Midjourney](#midjourney)
+* [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+* [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+* [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
     * [Stable Diffusion](#stable-diffusion)
     * [Application Development](#application-development)
   * [📧 Newsletters](#-newsletters)
